@@ -2,7 +2,7 @@
 author-meta:
 - John Doe
 - Jane Roe
-date-meta: '2019-03-27'
+date-meta: '2019-03-29'
 keywords:
 - markdown
 - publishing
@@ -18,10 +18,10 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/9a5e883d724651af57b0397aee751293f1a2332f/))
+([permalink](https://manubot.github.io/try-manubot/v/a9c8ecb40580770b4a06ee4f0f801b55707f2881/))
 was automatically generated
-from [manubot/try-manubot@9a5e883](https://github.com/manubot/try-manubot/tree/9a5e883d724651af57b0397aee751293f1a2332f)
-on March 27, 2019.
+from [manubot/try-manubot@a9c8ecb](https://github.com/manubot/try-manubot/tree/a9c8ecb40580770b4a06ee4f0f801b55707f2881)
+on March 29, 2019.
 </em></small>
 
 ## Authors
@@ -58,6 +58,8 @@ Manubot applies the git-based software workflow to scholarly writing, enabling e
 
 This manuscript is a Manubot demo, intended to give users a playground to practice using Manubot.
 Everyone is encouraged to try writing with Manubot by editing this manuscript.
+
+Manubot is described in the paper titled "Open collaborative writing with Manubot" [@1GGGHdsew].
 
 
 ## Main text

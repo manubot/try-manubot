@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "type": "webpage",
+    "title": "Open collaborative writing with Manubot",
+    "URL": "https://greenelab.github.io/meta-review/",
+    "language": "en-US",
+    "author": [
+      {
+        "family": "Himmelstein",
+        "given": "Daniel S."
+      },
+      {
+        "family": "Slochower",
+        "given": "David R."
+      },
+      {
+        "family": "Malladi",
+        "given": "Venkat S."
+      },
+      {
+        "family": "Hu",
+        "given": "Dongbo"
+      },
+      {
+        "family": "Rubinetti",
+        "given": "Vincent"
+      },
+      {
+        "family": "Greene",
+        "given": "Casey S."
+      },
+      {
+        "family": "Gitter",
+        "given": "Anthony"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2019",
+          3,
+          28
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2019",
+          3,
+          29
+        ]
+      ]
+    },
+    "id": "1GGGHdsew"
+  }
+]
