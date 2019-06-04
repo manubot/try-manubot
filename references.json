@@ -1,5 +1,195 @@
 [
   {
+    "publisher": "Cold Spring Harbor Laboratory",
+    "abstract": "<jats:p>Background: Transcription factors (TFs) bind to specific DNA sequences, TF motifs, in cis-regulatory sequences and control the expression of the diverse transcriptional programs encoded in the genome. The concerted action of TFs within the chromatin context enables precise temporal and spatial expression patterns. To understand how TFs control gene expression it is essential to model TF binding. TF motif information can help to interpret the exact role of individual regulatory elements, for instance to predict the functional impact of non-coding variants.\nFindings: Here we present GimmeMotifs, a comprehensive computational framework for TF motif analysis. Compared to the previously published version, this release adds a whole range of new functionality and analysis methods. It now includes tools for de novo motif discovery, motif scanning and sequence analysis, motif clustering, calculation of performance metrics and visualization. Included with GimmeMotifs is a non-redundant database of clustered motifs. Compared to other motif databases, this collection of motifs shows competitive performance in discriminating bound from unbound sequences. Using our de novo motif discovery pipeline we find large differences in performance between de novo motif finders on ChIP-seq data. Using an ensemble method such as implemented in GimmeMotifs will generally result in improved motif identification compared to a single motif finder. Finally, we demonstrate maelstrom, a new ensemble method that enables comparative analysis of TF motifs between multiple high-throughput sequencing experiments, such as ChIP-seq or ATAC-seq. Using a collection of ~200 H3K27ac ChIP-seq data sets we identify TFs that play a role in hematopoietic differentiation and lineage commitment.\nConclusion: GimmeMotifs is a fully-featured and flexible framework for TF motif analysis. It contains both command-line tools as well as a Python API and is freely available at: https://github.com/vanheeringen-lab/gimmemotifs.</jats:p>",
+    "DOI": "10.1101/474403",
+    "type": "manuscript",
+    "source": "Crossref",
+    "title": "GimmeMotifs: an analysis framework for transcription factor motif analysis",
+    "author": [
+      {
+        "given": "Niklas",
+        "family": "Bruse"
+      },
+      {
+        "given": "Simon J.",
+        "family": "van Heeringen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          20
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gfxrkc",
+    "id": "LGjXBQ7t"
+  },
+  {
+    "publisher": "Cold Spring Harbor Laboratory",
+    "abstract": "<jats:p>Automated machine learning (AutoML) systems are helpful data science assistants designed to scan data for novel features, select appropriate supervised learning models and optimize their parameters. For this purpose, Tree-based Pipeline Optimization Tool (TPOT) was developed using strongly typed genetic programming to recommend an optimized analysis pipeline for the data scientist's prediction problem. However, TPOT may reach computational resource limits when working on big data such as whole-genome expression data. We introduce two new features implemented in TPOT that helps increase the system's scalability: Dataset selector and Template. Dataset selector (DS) provides the option to specify subsets of the features as separate datasets, assuming the signals come from one or more of these specific data subsets. Built in at the beginning of each pipeline structure, DS reduces the computational expense of TPOT to only evaluate on a smaller subset of data rather than the entire dataset. Consequently, DS increases TPOT's efficiency in application on big data by slicing the dataset into smaller sets of features and allowing genetic programming to select the best subset in the final pipeline. Template enforces type constraints with strongly typed genetic programming and enables the incorporation of DS at the beginning of each pipeline. We show that DS and Template help reduce TPOT computation time and may provide more interpretable results. Our simulations show TPOT-DS significantly outperforms a tuned XGBoost model and standard TPOT implementation. We apply TPOT-DS to real RNA-Seq data from a study of major depressive disorder. Independent of the previous study that identified significant association with depression severity of the enrichment scores of two modules, in an automated fashion, TPOT-DS corroborates that one of the modules is largely predictive of the clinical diagnosis of each individual.</jats:p>",
+    "DOI": "10.1101/502484",
+    "type": "manuscript",
+    "source": "Crossref",
+    "title": "Scaling tree-based automated machine learning to biomedical big data with a dataset selector",
+    "author": [
+      {
+        "given": "Trang T",
+        "family": "Le"
+      },
+      {
+        "given": "Weixuan",
+        "family": "Fu"
+      },
+      {
+        "given": "Jason H",
+        "family": "Moore"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          20
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gf3jfk",
+    "id": "1Pz4wmGn"
+  },
+  {
+    "publisher": "Cold Spring Harbor Laboratory",
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Some microbiology experiments and biotechnology applications can be improved if it is possible to tune the expression of two different genes at the same time with cell-to-cell variation at or below the level of genes constitutively expressed from the chromosome (the “extrinsic noise limit”). This was recently achieved for a single gene by exploiting negative autoregulation by the tetracycline repressor (TetR) and bicistronic gene expression to reduce gene expression noise. We report new plasmids that use the same principles to achieve simultaneous, low-noise expression for two genes. The TetR system was moved to a compatible plasmid backbone, and a system based on the <jats:italic>lac</jats:italic> repressor (LacI) was found to also exhibit gene expression noise below the extrinsic noise limit. We characterize gene expression mean and noise across the range of induction levels for these plasmids, apply the LacI system to tune expression for single-molecule mRNA detection in two different growth conditions, and show that two plasmids can be co-transformed to independently tune expression of two different genes.</jats:p>",
+    "DOI": "10.1101/515940",
+    "type": "manuscript",
+    "source": "Crossref",
+    "title": "Plasmids for independently tunable, low-noise expression of two genes",
+    "author": [
+      {
+        "given": "João P. N.",
+        "family": "Silva"
+      },
+      {
+        "given": "Soraia",
+        "family": "Vidigal Lopes"
+      },
+      {
+        "given": "Diogo J.",
+        "family": "Grilo"
+      },
+      {
+        "given": "Zach",
+        "family": "Hensel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          9
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gfs47c",
+    "id": "O3pCOA4K"
+  },
+  {
+    "publisher": "Cold Spring Harbor Laboratory",
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Structural variants (SVs) are significant components of genetic diversity and have been associated with diseases, but the technological challenges surrounding their representation and identification make them difficult to study relative to point mutations. Still, thousands of SVs have been characterized, and catalogs continue to improve with new technologies. In parallel, variation graphs have been proposed to represent human pangenomes, offering reduced reference bias and better mapping accuracy than linear reference genomes. We contend that variation graphs provide an effective means for leveraging SV catalogs for short-read SV genotyping experiments. In this work, we extend vg (a software toolkit for working with variation graphs) to support SV genotyping. We show that it is capable of genotyping insertions, deletions and inversions, even in the presence of small errors in the location of the SVs breakpoints. We then benchmark vg against state-of-the-art SV genotypers using three high-quality sequence-resolved SV catalogs generated by recent studies ranging up to 97,368 variants in size. We find that vg systematically produces the best genotype predictions in all datasets. In addition, we use assemblies from 12 yeast strains to show that graphs constructed directly from aligned <jats:italic>de novo</jats:italic> assemblies can improve genotyping compared to graphs built from intermediate SV catalogs in the VCF format. Our results demonstrate the power of variation graphs for SV genotyping. Beyond single nucleotide variants and short insertions/deletions, the vg toolkit now incorporates SVs in its unified variant calling framework and provides a natural solution to integrate high-quality SV catalogs and assemblies.</jats:p>",
+    "DOI": "10.1101/654566",
+    "type": "manuscript",
+    "source": "Crossref",
+    "title": "Genotyping structural variants in pangenome graphs using the vg toolkit",
+    "author": [
+      {
+        "given": "Glenn",
+        "family": "Hickey"
+      },
+      {
+        "given": "David",
+        "family": "Heller"
+      },
+      {
+        "given": "Jean",
+        "family": "Monlong"
+      },
+      {
+        "given": "Jonas Andreas",
+        "family": "Sibbesen"
+      },
+      {
+        "given": "Jouni",
+        "family": "Siren"
+      },
+      {
+        "given": "Jordan",
+        "family": "Eizenga"
+      },
+      {
+        "given": "Eric",
+        "family": "Dawson"
+      },
+      {
+        "given": "Erik",
+        "family": "Garrison"
+      },
+      {
+        "given": "Adam",
+        "family": "Novak"
+      },
+      {
+        "given": "Benedict",
+        "family": "Paten"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          1
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gf3jfm",
+    "id": "r2krHy6V"
+  },
+  {
+    "id": "H6ysfkLV",
+    "type": "entry-encyclopedia",
+    "title": "Lorem ipsum",
+    "container-title": "Wikipedia",
+    "source": "Wikipedia",
+    "abstract": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content (also called greeking). Replacing the actual content with placeholder text allows designers to design the form of the content before the content itself has been produced.\nThe lorem ipsum text is typically a scrambled section of De finibus bonorum et malorum, a 1st-century BC Latin text by Cicero, with words altered, added, and removed to make it nonsensical, improper Latin.\nA variation of the ordinary lorem ipsum text has been used in typesetting since the 1960s or earlier, when it was popularized by advertisements for Letraset transfer sheets. It was introduced to the information age in the mid-1980s by Aldus Corporation, which employed it in graphics and word-processing templates for its desktop publishing program PageMaker. Many popular word processors use this format as a placeholder. Some examples are Pages or Microsoft Word.",
+    "URL": "https://en.wikipedia.org/w/index.php?title=Lorem_ipsum&oldid=898948649",
+    "note": "Page Version ID: 898948649",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          "2019",
+          5,
+          26
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2019",
+          6,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "id": "1GGGHdsew",
     "type": "webpage",
     "title": "Open collaborative writing with Manubot",
     "URL": "https://greenelab.github.io/meta-review/",
@@ -10,20 +200,20 @@
         "given": "Daniel S."
       },
       {
-        "family": "Slochower",
-        "given": "David R."
+        "family": "Rubinetti",
+        "given": "Vincent"
       },
       {
-        "family": "Malladi",
-        "given": "Venkat S."
+        "family": "Slochower",
+        "given": "David R."
       },
       {
         "family": "Hu",
         "given": "Dongbo"
       },
       {
-        "family": "Rubinetti",
-        "given": "Vincent"
+        "family": "Malladi",
+        "given": "Venkat S."
       },
       {
         "family": "Greene",
@@ -38,12 +228,38 @@
       "date-parts": [
         [
           "2019",
-          3,
-          28
+          6,
+          3
         ]
       ]
     },
     "accessed": {
+      "date-parts": [
+        [
+          "2019",
+          6,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "id": "9IQuyN3R",
+    "type": "webpage",
+    "title": "Manuscript Title",
+    "URL": "https://manubot.github.io/try-manubot/",
+    "language": "en-US",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "John"
+      },
+      {
+        "family": "Roe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
       "date-parts": [
         [
           "2019",
@@ -52,6 +268,14 @@
         ]
       ]
     },
-    "id": "1GGGHdsew"
+    "accessed": {
+      "date-parts": [
+        [
+          "2019",
+          6,
+          4
+        ]
+      ]
+    }
   }
 ]
