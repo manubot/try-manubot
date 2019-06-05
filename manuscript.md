@@ -18,9 +18,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/5d3dbf4617f286a5a7e4589edbad06d0d396dffb/))
+([permalink](https://manubot.github.io/try-manubot/v/d6e0b9667480a754bb0924fa0a10b9abe4ca01d9/))
 was automatically generated
-from [manubot/try-manubot@5d3dbf4](https://github.com/manubot/try-manubot/tree/5d3dbf4617f286a5a7e4589edbad06d0d396dffb)
+from [manubot/try-manubot@d6e0b96](https://github.com/manubot/try-manubot/tree/d6e0b9667480a754bb0924fa0a10b9abe4ca01d9)
 on June 5, 2019.
 </em></small>
 
@@ -73,6 +73,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 Manubot makes it easy to cite this manuscript [@9IQuyN3R].
 It has been used to write several manuscripts that are now preprints on _bioRxiv_ [@LGjXBQ7t; @O3pCOA4K; @1Pz4wmGn; @r2krHy6V].
+Notice that only [@1Pz4wmGn] has the correct name of the preprint server.
+Manubot allows authors to overwrite reference information, in this case with a BibTeX file.
 
 Lorem ipsum also makes a strong conclusion.
 

@@ -46,7 +46,7 @@
     "repo_slug": "manubot/try-manubot",
     "repo_owner": "manubot",
     "repo_name": "try-manubot",
-    "commit": "5d3dbf4617f286a5a7e4589edbad06d0d396dffb"
+    "commit": "d6e0b9667480a754bb0924fa0a10b9abe4ca01d9"
   },
   "manuscript_stats": {
     "reference_counts": {
@@ -54,6 +54,6 @@
       "url": 3,
       "total": 7
     },
-    "word_count": 489
+    "word_count": 515
   }
 }
