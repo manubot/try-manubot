@@ -1,7 +1,7 @@
 [
   {
     "publisher": "Cold Spring Harbor Laboratory",
-    "abstract": "<jats:p>Background: Transcription factors (TFs) bind to specific DNA sequences, TF motifs, in cis-regulatory sequences and control the expression of the diverse transcriptional programs encoded in the genome. The concerted action of TFs within the chromatin context enables precise temporal and spatial expression patterns. To understand how TFs control gene expression it is essential to model TF binding. TF motif information can help to interpret the exact role of individual regulatory elements, for instance to predict the functional impact of non-coding variants.\nFindings: Here we present GimmeMotifs, a comprehensive computational framework for TF motif analysis. Compared to the previously published version, this release adds a whole range of new functionality and analysis methods. It now includes tools for de novo motif discovery, motif scanning and sequence analysis, motif clustering, calculation of performance metrics and visualization. Included with GimmeMotifs is a non-redundant database of clustered motifs. Compared to other motif databases, this collection of motifs shows competitive performance in discriminating bound from unbound sequences. Using our de novo motif discovery pipeline we find large differences in performance between de novo motif finders on ChIP-seq data. Using an ensemble method such as implemented in GimmeMotifs will generally result in improved motif identification compared to a single motif finder. Finally, we demonstrate maelstrom, a new ensemble method that enables comparative analysis of TF motifs between multiple high-throughput sequencing experiments, such as ChIP-seq or ATAC-seq. Using a collection of ~200 H3K27ac ChIP-seq data sets we identify TFs that play a role in hematopoietic differentiation and lineage commitment.\nConclusion: GimmeMotifs is a fully-featured and flexible framework for TF motif analysis. It contains both command-line tools as well as a Python API and is freely available at: https://github.com/vanheeringen-lab/gimmemotifs.</jats:p>",
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Background</jats:title><jats:p>Transcription factors (TFs) bind to specific DNA sequences, TF motifs, in cis-regulatory sequences and control the expression of the diverse transcriptional programs encoded in the genome. The concerted action of TFs within the chromatin context enables precise temporal and spatial expression patterns. To understand how TFs control gene expression it is essential to model TF binding. TF motif information can help to interpret the exact role of individual regulatory elements, for instance to predict the functional impact of non-coding variants.</jats:p></jats:sec><jats:sec><jats:title>Findings</jats:title><jats:p>Here we present GimmeMotifs, a comprehensive computational framework for TF motif analysis. Compared to the previously published version, this release adds a whole range of new functionality and analysis methods. It now includes tools for <jats:italic>de novo</jats:italic> motif discovery, motif scanning and sequence analysis, motif clustering, calculation of performance metrics and visualization. Included with GimmeMotifs is a non-redundant database of clustered motifs. Compared to other motif databases, this collection of motifs shows competitive performance in discriminating bound from unbound sequences. Using our <jats:italic>de novo</jats:italic> motif discovery pipeline we find large differences in performance between <jats:italic>de novo</jats:italic> motif finders on ChIP-seq data. Using an ensemble method such as implemented in GimmeMotifs will generally result in improved motif identification compared to a single motif finder. Finally, we demonstrate <jats:italic>maelstrom</jats:italic>, a new ensemble method that enables comparative analysis of TF motifs between multiple high-throughput sequencing experiments, such as ChIP-seq or ATAC-seq. Using a collection of ~200 H3K27ac ChIP-seq data sets we identify TFs that play a role in hematopoietic differentiation and lineage commitment.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>GimmeMotifs is a fully-featured and flexible framework for TF motif analysis. It contains both command-line tools as well as a Python API and is freely available at: <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://github.com/vanheeringen-lab/gimmemotifs\">https://github.com/vanheeringen-lab/gimmemotifs</jats:ext-link>.</jats:p></jats:sec>",
     "DOI": "10.1101/474403",
     "type": "manuscript",
     "source": "Crossref",
@@ -12,8 +12,8 @@
         "family": "Bruse"
       },
       {
-        "given": "Simon J.",
-        "family": "van Heeringen"
+        "given": "Simon J. van",
+        "family": "Heeringen"
       }
     ],
     "issued": {
@@ -176,16 +176,16 @@
     "title": "Lorem ipsum",
     "container-title": "Wikipedia",
     "source": "Wikipedia",
-    "abstract": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content (also called greeking). Replacing the actual content with placeholder text allows designers to design the form of the content before the content itself has been produced.\nThe lorem ipsum text is typically a scrambled section of De finibus bonorum et malorum, a 1st-century BC Latin text by Cicero, with words altered, added, and removed to make it nonsensical, improper Latin.\nA variation of the ordinary lorem ipsum text has been used in typesetting since the 1960s or earlier, when it was popularized by advertisements for Letraset transfer sheets. It was introduced to the information age in the mid-1980s by Aldus Corporation, which employed it in graphics and word-processing templates for its desktop publishing program PageMaker. Many popular word processors use this format as a placeholder. Some examples are Pages or Microsoft Word.",
-    "URL": "https://en.wikipedia.org/w/index.php?title=Lorem_ipsum&oldid=901677965",
-    "note": "Page Version ID: 901677965\nThis CSL JSON Item was automatically generated by Manubot v0.2.3 using citation-by-identifier.\nstandard_id: url:https://en.wikipedia.org/wiki/Lorem_ipsum",
+    "abstract": "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used before final copy is available, but it may also be used to temporarily replace copy in a process called greeking, which allows designers to consider form without the meaning of the text influencing the design.\nLorem ipsum is typically a corrupted version of De finibus bonorum et malorum, a first-century BCE text by Cicero, with words altered, added, and removed to make it nonsensical, improper Latin.\nVersions of the lorem ipsum text have been used in typesetting at least since the 1960s, when it was popularized by advertisements for Letraset transfer sheets. Lorem ipsum was introduced to the digital world in the mid-1980s when Aldus employed it in graphic and word-processing templates for its desktop publishing program PageMaker. Other popular word processors including Pages and Microsoft Word have since adopted lorem ipsum as well.",
+    "URL": "https://en.wikipedia.org/w/index.php?title=Lorem_ipsum&oldid=915178151",
+    "note": "Page Version ID: 915178151\nThis CSL JSON Item was automatically generated by Manubot v0.2.3 using citation-by-identifier.\nstandard_id: url:https://en.wikipedia.org/wiki/Lorem_ipsum",
     "language": "en",
     "issued": {
       "date-parts": [
         [
           "2019",
-          6,
-          13
+          9,
+          11
         ]
       ]
     },
@@ -193,8 +193,8 @@
       "date-parts": [
         [
           "2019",
-          7,
-          9
+          9,
+          13
         ]
       ]
     }
@@ -239,8 +239,8 @@
       "date-parts": [
         [
           "2019",
-          6,
-          25
+          9,
+          6
         ]
       ]
     },
@@ -248,8 +248,8 @@
       "date-parts": [
         [
           "2019",
-          7,
-          9
+          9,
+          13
         ]
       ]
     },
@@ -258,7 +258,7 @@
   {
     "id": "9IQuyN3R",
     "type": "webpage",
-    "title": "Manuscript Title",
+    "title": "Edit me to practice contributing to a collaborative Manubot manuscript",
     "URL": "https://manubot.github.io/try-manubot/",
     "language": "en-US",
     "author": [
@@ -275,8 +275,8 @@
       "date-parts": [
         [
           "2019",
-          6,
-          26
+          7,
+          9
         ]
       ]
     },
@@ -284,8 +284,8 @@
       "date-parts": [
         [
           "2019",
-          7,
-          9
+          9,
+          13
         ]
       ]
     },
