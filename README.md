@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/manubot/try-manubot/tree/gh-pages) branch hosts the contents of this directory at https://manubot.github.io/try-manubot/.
-The permalink for this webpage version is https://manubot.github.io/try-manubot/v/b4c4bef050164a8a86d5ac193e9a15254f134b8c/.
+The permalink for this webpage version is https://manubot.github.io/try-manubot/v/e4afb669e40baabcb1faf2eb2fec310cf0a92136/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://manubot.github.io/try-manubot/v/freeze/.
 
 ## Files
@@ -36,4 +36,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`b4c4bef050164a8a86d5ac193e9a15254f134b8c`](https://github.com/manubot/try-manubot/commit/b4c4bef050164a8a86d5ac193e9a15254f134b8c).
+[`e4afb669e40baabcb1faf2eb2fec310cf0a92136`](https://github.com/manubot/try-manubot/commit/e4afb669e40baabcb1faf2eb2fec310cf0a92136).
