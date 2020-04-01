@@ -1,5 +1,5 @@
 {
-  "date": "March 31, 2020",
+  "date": "April 1, 2020",
   "authors": [
     {
       "github": "johndoe",
@@ -46,7 +46,7 @@
     "repo_slug": "manubot/try-manubot",
     "repo_owner": "manubot",
     "repo_name": "try-manubot",
-    "commit": "ed98ea5a4e5c78a65182810829a4704a4d7a8593"
+    "commit": "b4c4bef050164a8a86d5ac193e9a15254f134b8c"
   },
   "manuscript_stats": {
     "reference_counts": {
@@ -54,6 +54,6 @@
       "url": 3,
       "total": 7
     },
-    "word_count": 520
+    "word_count": 523
   }
 }

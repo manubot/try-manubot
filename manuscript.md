@@ -2,7 +2,7 @@
 author-meta:
 - John Doe
 - Jane Roe
-date-meta: '2020-03-31'
+date-meta: '2020-04-01'
 keywords:
 - markdown
 - publishing
@@ -19,10 +19,10 @@ title: Edit me to practice contributing to a collaborative Manubot manuscript
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/ed98ea5a4e5c78a65182810829a4704a4d7a8593/))
+([permalink](https://manubot.github.io/try-manubot/v/b4c4bef050164a8a86d5ac193e9a15254f134b8c/))
 was automatically generated
-from [manubot/try-manubot@ed98ea5](https://github.com/manubot/try-manubot/tree/ed98ea5a4e5c78a65182810829a4704a4d7a8593)
-on March 31, 2020.
+from [manubot/try-manubot@b4c4bef](https://github.com/manubot/try-manubot/tree/b4c4bef050164a8a86d5ac193e9a15254f134b8c)
+on April 1, 2020.
 </em></small>
 
 ## Authors
@@ -61,6 +61,8 @@ This manuscript is a Manubot demo, intended to give users a playground to practi
 Everyone is encouraged to try writing with Manubot by editing this manuscript.
 
 Manubot is described in the paper titled "Open collaborative writing with Manubot" [@1GGGHdsew].
+
+Test my understanding
 
 
 ## Main text
