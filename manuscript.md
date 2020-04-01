@@ -19,9 +19,9 @@ title: Edit me to practice contributing to a collaborative Manubot manuscript
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/b4c4bef050164a8a86d5ac193e9a15254f134b8c/))
+([permalink](https://manubot.github.io/try-manubot/v/e4afb669e40baabcb1faf2eb2fec310cf0a92136/))
 was automatically generated
-from [manubot/try-manubot@b4c4bef](https://github.com/manubot/try-manubot/tree/b4c4bef050164a8a86d5ac193e9a15254f134b8c)
+from [manubot/try-manubot@e4afb66](https://github.com/manubot/try-manubot/tree/e4afb669e40baabcb1faf2eb2fec310cf0a92136)
 on April 1, 2020.
 </em></small>
 
@@ -63,6 +63,8 @@ Everyone is encouraged to try writing with Manubot by editing this manuscript.
 Manubot is described in the paper titled "Open collaborative writing with Manubot" [@1GGGHdsew].
 
 Test my understanding
+
+Just a paper [@JkNIiqjI]
 
 
 ## Main text
