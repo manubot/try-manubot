@@ -2,7 +2,7 @@
 author-meta:
 - John Doe
 - Jane Roe
-date-meta: '2020-04-01'
+date-meta: '2020-05-15'
 keywords:
 - markdown
 - publishing
@@ -19,10 +19,10 @@ title: Edit me to practice contributing to a collaborative Manubot manuscript
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/e4afb669e40baabcb1faf2eb2fec310cf0a92136/))
+([permalink](https://manubot.github.io/try-manubot/v/7ba7b5e614bff5fadf27622be1223509eda594ba/))
 was automatically generated
-from [manubot/try-manubot@e4afb66](https://github.com/manubot/try-manubot/tree/e4afb669e40baabcb1faf2eb2fec310cf0a92136)
-on April 1, 2020.
+from [manubot/try-manubot@7ba7b5e](https://github.com/manubot/try-manubot/tree/7ba7b5e614bff5fadf27622be1223509eda594ba)
+on May 15, 2020.
 </em></small>
 
 ## Authors
@@ -87,6 +87,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+I'm wondering about how editing this file works within the web browser.
 
 
 ## References {.page_break_before}
