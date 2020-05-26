@@ -5,7 +5,6 @@
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://manubot.github.io/try-manubot/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://manubot.github.io/try-manubot/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/manubot/try-manubot/workflows/Manubot/badge.svg)](https://github.com/manubot/try-manubot/actions)
-[![Build Status](https://travis-ci.com/manubot/try-manubot.svg?branch=master)](https://travis-ci.com/manubot/try-manubot)
 
 ## Manuscript description
 
