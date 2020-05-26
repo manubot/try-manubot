@@ -2,13 +2,103 @@
 author-meta:
 - John Doe
 - Jane Roe
-date-meta: '2020-05-19'
+bibliography:
+- content/manual-references.bib
+- content/manual-references.json
+date-meta: '2020-05-26'
+header-includes: '<!--
+
+  Manubot generated metadata rendered from header-includes-template.html.
+
+  Suggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html
+
+  -->
+
+  <meta name="dc.format" content="text/html" />
+
+  <meta name="dc.title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
+
+  <meta name="citation_title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
+
+  <meta property="og:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
+
+  <meta property="twitter:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
+
+  <meta name="dc.date" content="2020-05-26" />
+
+  <meta name="citation_publication_date" content="2020-05-26" />
+
+  <meta name="dc.language" content="en-US" />
+
+  <meta name="citation_language" content="en-US" />
+
+  <meta name="dc.relation.ispartof" content="Manubot" />
+
+  <meta name="dc.publisher" content="Manubot" />
+
+  <meta name="citation_journal_title" content="Manubot" />
+
+  <meta name="citation_technical_report_institution" content="Manubot" />
+
+  <meta name="citation_author" content="John Doe" />
+
+  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+
+  <meta name="twitter:creator" content="@johndoe" />
+
+  <meta name="citation_author" content="Jane Roe" />
+
+  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+
+  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+
+  <link rel="canonical" href="https://manubot.github.io/try-manubot/" />
+
+  <meta property="og:url" content="https://manubot.github.io/try-manubot/" />
+
+  <meta property="twitter:url" content="https://manubot.github.io/try-manubot/" />
+
+  <meta name="citation_fulltext_html_url" content="https://manubot.github.io/try-manubot/" />
+
+  <meta name="citation_pdf_url" content="https://manubot.github.io/try-manubot/manuscript.pdf" />
+
+  <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
+
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/c84b41ac9bd39dc7f1f5f85f6bdf5668d2aa667e/" />
+
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/c84b41ac9bd39dc7f1f5f85f6bdf5668d2aa667e/" />
+
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/c84b41ac9bd39dc7f1f5f85f6bdf5668d2aa667e/manuscript.pdf" />
+
+  <meta property="og:type" content="article" />
+
+  <meta property="twitter:card" content="summary_large_image" />
+
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/c84b41ac9bd39dc7f1f5f85f6bdf5668d2aa667e/thumbnail.png" />
+
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/c84b41ac9bd39dc7f1f5f85f6bdf5668d2aa667e/thumbnail.png" />
+
+  <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
+
+  <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
+
+  <meta name="theme-color" content="#ad1457" />
+
+  <!-- end Manubot generated metadata -->'
 keywords:
 - markdown
 - publishing
 - manubot
 - demo
 lang: en-US
+manubot-clear-requests-cache: false
+manubot-output-bibliography: output/references.json
+manubot-output-citekeys: output/citations.tsv
+manubot-requests-cache-path: ci/cache/requests-cache
 title: Edit me to practice contributing to a collaborative Manubot manuscript
 ...
 
@@ -19,10 +109,10 @@ title: Edit me to practice contributing to a collaborative Manubot manuscript
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/3e035ce14f797dd81110aed98211444a0b6e8b4d/))
+([permalink](https://manubot.github.io/try-manubot/v/c84b41ac9bd39dc7f1f5f85f6bdf5668d2aa667e/))
 was automatically generated
-from [manubot/try-manubot@3e035ce](https://github.com/manubot/try-manubot/tree/3e035ce14f797dd81110aed98211444a0b6e8b4d)
-on May 19, 2020.
+from [manubot/try-manubot@c84b41a](https://github.com/manubot/try-manubot/tree/c84b41ac9bd39dc7f1f5f85f6bdf5668d2aa667e)
+on May 26, 2020.
 </em></small>
 
 ## Authors
@@ -60,25 +150,25 @@ Manubot applies the git-based software workflow to scholarly writing, enabling e
 This manuscript is a Manubot demo, intended to give users a playground to practice using Manubot.
 Everyone is encouraged to try writing with Manubot by editing this manuscript.
 
-Manubot is described in the paper titled "Open collaborative writing with Manubot" [@1GGGHdsew].
+Manubot is described in the paper titled "Open collaborative writing with Manubot" [@url:https://greenelab.github.io/meta-review/].
 
 Test my understanding
 
-Just a paper [@53ynNxaP]
+Just a paper [@url:https://www.nature.com/articles/nature18003]
 
 
 ## Main text
 
-Lorem ipsum text [@H6ysfkLV] is a strong introduction for any manuscript.
+Lorem ipsum text [@url:https://en.wikipedia.org/wiki/Lorem_ipsum] is a strong introduction for any manuscript.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Manubot makes it easy to cite this manuscript [@9IQuyN3R].
-It has been used to write several manuscripts that are now preprints on _bioRxiv_ [@LGjXBQ7t; @O3pCOA4K; @1Pz4wmGn; @r2krHy6V].
-Notice that only [@1Pz4wmGn] has the correct name of the preprint server.
+Manubot makes it easy to cite this manuscript [@url:https://manubot.github.io/try-manubot/].
+It has been used to write several manuscripts that are now preprints on _bioRxiv_ [@doi:10.1101/474403; @doi:10.1101/515940; @doi:10.1101/502484; @doi:10.1101/654566].
+Notice that only [@doi:10.1101/502484] has the correct name of the preprint server.
 Manubot allows authors to overwrite reference information, in this case with a BibTeX file.
 
 Lorem ipsum also makes a strong conclusion.
