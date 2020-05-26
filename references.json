@@ -258,8 +258,10 @@
   },
   {
     "id": "ZWuDuPis",
-    "type": "webpage",
+    "type": "report",
     "title": "Edit me to practice contributing to a collaborative Manubot manuscript",
+    "publisher": "Manubot",
+    "source": "manubot.github.io",
     "URL": "https://manubot.github.io/try-manubot/",
     "language": "en-US",
     "author": [
@@ -277,7 +279,7 @@
         [
           "2020",
           5,
-          19
+          26
         ]
       ]
     },

@@ -68,19 +68,19 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/c84b41ac9bd39dc7f1f5f85f6bdf5668d2aa667e/" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/e220c7da6469f627d53968046b5706d25214f13f/" />
 
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/c84b41ac9bd39dc7f1f5f85f6bdf5668d2aa667e/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/e220c7da6469f627d53968046b5706d25214f13f/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/c84b41ac9bd39dc7f1f5f85f6bdf5668d2aa667e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/e220c7da6469f627d53968046b5706d25214f13f/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
   <meta property="twitter:card" content="summary_large_image" />
 
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/c84b41ac9bd39dc7f1f5f85f6bdf5668d2aa667e/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/e220c7da6469f627d53968046b5706d25214f13f/thumbnail.png" />
 
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/c84b41ac9bd39dc7f1f5f85f6bdf5668d2aa667e/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/e220c7da6469f627d53968046b5706d25214f13f/thumbnail.png" />
 
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
 
@@ -109,9 +109,9 @@ title: Edit me to practice contributing to a collaborative Manubot manuscript
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/c84b41ac9bd39dc7f1f5f85f6bdf5668d2aa667e/))
+([permalink](https://manubot.github.io/try-manubot/v/e220c7da6469f627d53968046b5706d25214f13f/))
 was automatically generated
-from [manubot/try-manubot@c84b41a](https://github.com/manubot/try-manubot/tree/c84b41ac9bd39dc7f1f5f85f6bdf5668d2aa667e)
+from [manubot/try-manubot@e220c7d](https://github.com/manubot/try-manubot/tree/e220c7da6469f627d53968046b5706d25214f13f)
 on May 26, 2020.
 </em></small>
 
