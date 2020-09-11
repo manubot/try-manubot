@@ -1,5 +1,5 @@
 ---
-title: "Edit me to practice contributing to a collaborative Manubot manuscript"
+title: "Machine Learning approaches to data integration and progression modelling in the Parkinson’s Progression Markers Initiative: A Review"
 keywords:
   - markdown
   - publishing
@@ -7,16 +7,16 @@ keywords:
   - demo
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: leelancashire
+    name: Lee Lancashire
+    initials: LJL
+    orcid: 0000-0003-4835-4847
+    twitter: leelancashire
+    email: drllancashire@gmail.com
     affiliations:
-      - Department of Something, University of Whatever
+      - Cohen Veteran's Bioscience
     funders:
-      - Grant XXXXXXXX
+      - MJFF
   - github: janeroe
     name: Jane Roe
     initials: JR
