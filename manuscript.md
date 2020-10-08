@@ -5,7 +5,7 @@ author-meta:
 bibliography:
 - content/manual-references.bib
 - content/manual-references.json
-date-meta: '2020-05-26'
+date-meta: '2020-10-08'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -24,9 +24,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
 
-  <meta name="dc.date" content="2020-05-26" />
+  <meta name="dc.date" content="2020-10-08" />
 
-  <meta name="citation_publication_date" content="2020-05-26" />
+  <meta name="citation_publication_date" content="2020-10-08" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -68,19 +68,19 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/e220c7da6469f627d53968046b5706d25214f13f/" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/092a82e6204ba682fb4d5be69758ccff74d58d35/" />
 
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/e220c7da6469f627d53968046b5706d25214f13f/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/092a82e6204ba682fb4d5be69758ccff74d58d35/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/e220c7da6469f627d53968046b5706d25214f13f/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/092a82e6204ba682fb4d5be69758ccff74d58d35/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
   <meta property="twitter:card" content="summary_large_image" />
 
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/e220c7da6469f627d53968046b5706d25214f13f/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/092a82e6204ba682fb4d5be69758ccff74d58d35/thumbnail.png" />
 
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/e220c7da6469f627d53968046b5706d25214f13f/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/092a82e6204ba682fb4d5be69758ccff74d58d35/thumbnail.png" />
 
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
 
@@ -109,10 +109,10 @@ title: Edit me to practice contributing to a collaborative Manubot manuscript
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/e220c7da6469f627d53968046b5706d25214f13f/))
+([permalink](https://manubot.github.io/try-manubot/v/092a82e6204ba682fb4d5be69758ccff74d58d35/))
 was automatically generated
-from [manubot/try-manubot@e220c7d](https://github.com/manubot/try-manubot/tree/e220c7da6469f627d53968046b5706d25214f13f)
-on May 26, 2020.
+from [manubot/try-manubot@092a82e](https://github.com/manubot/try-manubot/tree/092a82e6204ba682fb4d5be69758ccff74d58d35)
+on October 8, 2020.
 </em></small>
 
 ## Authors
@@ -171,7 +171,7 @@ It has been used to write several manuscripts that are now preprints on _bioRxiv
 Notice that only [@doi:10.1101/502484] has the correct name of the preprint server.
 Manubot allows authors to overwrite reference information, in this case with a BibTeX file.
 
-Lorem ipsum also makes a strong conclusion.
+Lorem ipsum also makes a strong conclusion [@PMID:26945319]
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
