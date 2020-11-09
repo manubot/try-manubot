@@ -5,7 +5,7 @@ author-meta:
 bibliography:
 - content/manual-references.bib
 - content/manual-references.json
-date-meta: '2020-11-08'
+date-meta: '2020-11-09'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -24,9 +24,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
 
-  <meta name="dc.date" content="2020-11-08" />
+  <meta name="dc.date" content="2020-11-09" />
 
-  <meta name="citation_publication_date" content="2020-11-08" />
+  <meta name="citation_publication_date" content="2020-11-09" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -68,19 +68,19 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/d43a3fd6082e544aa7d0291be3f8642675f2667c/" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/0d2c6dc3a1f90f6afa24d8915b5be93152d8c1a0/" />
 
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/d43a3fd6082e544aa7d0291be3f8642675f2667c/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/0d2c6dc3a1f90f6afa24d8915b5be93152d8c1a0/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/d43a3fd6082e544aa7d0291be3f8642675f2667c/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/0d2c6dc3a1f90f6afa24d8915b5be93152d8c1a0/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
   <meta property="twitter:card" content="summary_large_image" />
 
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/d43a3fd6082e544aa7d0291be3f8642675f2667c/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/0d2c6dc3a1f90f6afa24d8915b5be93152d8c1a0/thumbnail.png" />
 
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/d43a3fd6082e544aa7d0291be3f8642675f2667c/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/0d2c6dc3a1f90f6afa24d8915b5be93152d8c1a0/thumbnail.png" />
 
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
 
@@ -109,10 +109,10 @@ title: Edit me to practice contributing to a collaborative Manubot manuscript
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/d43a3fd6082e544aa7d0291be3f8642675f2667c/))
+([permalink](https://manubot.github.io/try-manubot/v/0d2c6dc3a1f90f6afa24d8915b5be93152d8c1a0/))
 was automatically generated
-from [manubot/try-manubot@d43a3fd](https://github.com/manubot/try-manubot/tree/d43a3fd6082e544aa7d0291be3f8642675f2667c)
-on November 8, 2020.
+from [manubot/try-manubot@0d2c6dc](https://github.com/manubot/try-manubot/tree/0d2c6dc3a1f90f6afa24d8915b5be93152d8c1a0)
+on November 9, 2020.
 </em></small>
 
 ## Authors
@@ -171,7 +171,7 @@ It has been used to write several manuscripts that are now preprints on _bioRxiv
 Notice that only [@doi:10.1101/502484] has the correct name of the preprint server.
 Manubot allows authors to overwrite reference information, in this case with a BibTeX file.
 
-Lorem ipsum also makes a strong conclusion [@PMID:26945319] here is another reference to see if duplicate references are picked up by the program if the second author uses a different identifier for the same reference like here with the immediately preceding reference @doi:10.1097/MOT.0000000000000306]. Did it work?
+Lorem ipsum also makes a strong conclusion [@PMID:26945319] here is another reference to see if duplicate references are picked up by the program if the second author uses a different identifier for the same reference like here with the immediately preceding reference [@doi:10.1097/MOT.0000000000000306]. Did it work?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
