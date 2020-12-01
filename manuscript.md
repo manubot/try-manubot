@@ -5,7 +5,7 @@ author-meta:
 bibliography:
 - content/manual-references.bib
 - content/manual-references.json
-date-meta: '2020-11-10'
+date-meta: '2020-12-01'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -24,9 +24,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
 
-  <meta name="dc.date" content="2020-11-10" />
+  <meta name="dc.date" content="2020-12-01" />
 
-  <meta name="citation_publication_date" content="2020-11-10" />
+  <meta name="citation_publication_date" content="2020-12-01" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -68,19 +68,19 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/eaae8a7b75407f13c895eca391c34a8844149912/" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/d12ab001c1aef96f10b9244d7cc0e4e35e004323/" />
 
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/eaae8a7b75407f13c895eca391c34a8844149912/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/d12ab001c1aef96f10b9244d7cc0e4e35e004323/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/eaae8a7b75407f13c895eca391c34a8844149912/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/d12ab001c1aef96f10b9244d7cc0e4e35e004323/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
   <meta property="twitter:card" content="summary_large_image" />
 
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/eaae8a7b75407f13c895eca391c34a8844149912/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/d12ab001c1aef96f10b9244d7cc0e4e35e004323/thumbnail.png" />
 
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/eaae8a7b75407f13c895eca391c34a8844149912/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/d12ab001c1aef96f10b9244d7cc0e4e35e004323/thumbnail.png" />
 
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
 
@@ -109,10 +109,10 @@ title: Edit me to practice contributing to a collaborative Manubot manuscript
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/eaae8a7b75407f13c895eca391c34a8844149912/))
+([permalink](https://manubot.github.io/try-manubot/v/d12ab001c1aef96f10b9244d7cc0e4e35e004323/))
 was automatically generated
-from [manubot/try-manubot@eaae8a7](https://github.com/manubot/try-manubot/tree/eaae8a7b75407f13c895eca391c34a8844149912)
-on November 10, 2020.
+from [manubot/try-manubot@d12ab00](https://github.com/manubot/try-manubot/tree/d12ab001c1aef96f10b9244d7cc0e4e35e004323)
+on December 1, 2020.
 </em></small>
 
 ## Authors
@@ -155,6 +155,8 @@ Manubot is described in the paper titled "Open collaborative writing with Manubo
 Test my understanding
 
 Just a paper [@url:https://www.nature.com/articles/nature18003]
+
+Manubot is described in the paper titled "Open collaborative writing with Manubot" [@url:https://mir-mohammad.github.io/].
 
 
 ## Main text
