@@ -1,4 +1,5 @@
 adipiscing
+agroforestry
 aliqua
 aliquip
 amet
@@ -6,13 +7,16 @@ anim
 aute
 BibTeX
 bioRxiv
+Burkina
 cillum
 commodo
 consectetur
 consequat
+CSO
 culpa
 cupidatat
 deserunt
+DIY
 dolore
 Duis
 eiusmod
@@ -21,7 +25,9 @@ enim
 esse
 Excepteur
 exercitation
+Faso
 fugiat
+GG
 incididunt
 ipsum
 irure
@@ -32,7 +38,9 @@ laboris
 laborum
 Lorem
 magna
+mobilisation
 mollit
+NGOs
 nisi
 nostrud
 nulla
@@ -41,6 +49,7 @@ officia
 pariatur
 preprint
 preprints
+programme
 proident
 qui
 quis
@@ -48,8 +57,11 @@ reprehenderit
 reproducibility
 sed
 sint
+SLM
+summarised
 sunt
 tempor
+transhumance
 ullamco
 velit
 veniam
