@@ -6,7 +6,7 @@ keywords:
 - manubot
 - demo
 lang: en-US
-date-meta: '2021-06-19'
+date-meta: '2021-08-15'
 author-meta:
 - John Doe
 - Jane Roe
@@ -20,8 +20,8 @@ header-includes: |-
   <meta name="citation_title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="og:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="twitter:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
-  <meta name="dc.date" content="2021-06-19" />
-  <meta name="citation_publication_date" content="2021-06-19" />
+  <meta name="dc.date" content="2021-08-15" />
+  <meta name="citation_publication_date" content="2021-08-15" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,13 +42,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/try-manubot/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/try-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/ff82a115c071f6e957e98a147a19441b541afab7/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/ff82a115c071f6e957e98a147a19441b541afab7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/ff82a115c071f6e957e98a147a19441b541afab7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/672d73bccac79ac4eea72a38bea262a573aeb26f/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/672d73bccac79ac4eea72a38bea262a573aeb26f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/672d73bccac79ac4eea72a38bea262a573aeb26f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/ff82a115c071f6e957e98a147a19441b541afab7/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/ff82a115c071f6e957e98a147a19441b541afab7/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/672d73bccac79ac4eea72a38bea262a573aeb26f/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/672d73bccac79ac4eea72a38bea262a573aeb26f/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/ff82a115c071f6e957e98a147a19441b541afab7/))
+([permalink](https://manubot.github.io/try-manubot/v/672d73bccac79ac4eea72a38bea262a573aeb26f/))
 was automatically generated
-from [manubot/try-manubot@ff82a11](https://github.com/manubot/try-manubot/tree/ff82a115c071f6e957e98a147a19441b541afab7)
-on June 19, 2021.
+from [manubot/try-manubot@672d73b](https://github.com/manubot/try-manubot/tree/672d73bccac79ac4eea72a38bea262a573aeb26f)
+on August 15, 2021.
 </em></small>
 
 ## Authors
@@ -188,6 +188,8 @@ The objectives of the action plan for each sector are as follows:
 |--|--|
 | Agriculture | -	Cultivate early varieties or drought-resistant crops (Short) - Apply water and soil conservation methods (stone barriers, small dikes, filtering dikes, terraces, half moons, agroforestry, dune fixing etc.) (Short) - Promote sustainable land management (SLM) (Medium) - Improve access to climate information  (Medium) - Introduce agricultural insurance (Long) |
 |Livestock farming | -	Fight bush fires in order to prevent destruction [@doi:10.1136/bmj.312.7031.619] of dry-season grazing reserves-  Adopt best animal husbandry and pastoral practices (pastoral hydraulics, pastoral resource management, pasture mowing and conservation, pasture crops, silage, animal mobility and transhumance etc.) - Ensure stakeholders take account of climate variability in development project and programme planning by improving their skills - Preserve cattle breeding at serious risk from climate variability  - Ensure farmers adopt animal production methods adapted to a hot climate|
+
+I wonder what happens if I do hto
 
 
 ## References {.page_break_before}
