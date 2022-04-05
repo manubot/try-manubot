@@ -42,13 +42,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/try-manubot/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/try-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/21b527920e67e90177ed399caf96b0593b9daaca/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/21b527920e67e90177ed399caf96b0593b9daaca/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/21b527920e67e90177ed399caf96b0593b9daaca/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/c93d714566d20a7434d129da13fc20a7a21925ca/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/c93d714566d20a7434d129da13fc20a7a21925ca/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/c93d714566d20a7434d129da13fc20a7a21925ca/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/21b527920e67e90177ed399caf96b0593b9daaca/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/21b527920e67e90177ed399caf96b0593b9daaca/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/c93d714566d20a7434d129da13fc20a7a21925ca/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/c93d714566d20a7434d129da13fc20a7a21925ca/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/21b527920e67e90177ed399caf96b0593b9daaca/))
+([permalink](https://manubot.github.io/try-manubot/v/c93d714566d20a7434d129da13fc20a7a21925ca/))
 was automatically generated
-from [manubot/try-manubot@21b5279](https://github.com/manubot/try-manubot/tree/21b527920e67e90177ed399caf96b0593b9daaca)
+from [manubot/try-manubot@c93d714](https://github.com/manubot/try-manubot/tree/c93d714566d20a7434d129da13fc20a7a21925ca)
 on April 5, 2022.
 </em></small>
 
@@ -149,7 +149,6 @@ I'm wondering about how editing this file works within the web browser.
 
 Testing inserting a reference Note that some buffers can potentially introduce modifications onto proteins such as carbamylation from urea at high temperatures [@doi: 10.1016/j.ab.2013.10.024; @doi.org/10.1016/j.ab.2021.114321] . 
 
-Trying with references again [@PMID:24161613]
 
 The objectives of the action plan for each sector are as follows:
 
