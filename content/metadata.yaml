@@ -14,7 +14,7 @@ authors:
     twitter: johndoe
     email: john.doe@something.com
     affiliations:
-      - Department of Something, University of Whatever
+      - "Department of Something: University of Whatever"
     funders:
       - Grant XXXXXXXX
   - github: janeroe
