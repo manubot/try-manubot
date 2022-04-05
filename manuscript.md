@@ -42,13 +42,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/try-manubot/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/try-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/1ca56ea2cfec5974576e40b2bac7e2dd6539068a/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/1ca56ea2cfec5974576e40b2bac7e2dd6539068a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/1ca56ea2cfec5974576e40b2bac7e2dd6539068a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/e8f3c346f0d9f84828a3bd5b6f9aa210fb419ebe/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/e8f3c346f0d9f84828a3bd5b6f9aa210fb419ebe/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/e8f3c346f0d9f84828a3bd5b6f9aa210fb419ebe/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/1ca56ea2cfec5974576e40b2bac7e2dd6539068a/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/1ca56ea2cfec5974576e40b2bac7e2dd6539068a/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/e8f3c346f0d9f84828a3bd5b6f9aa210fb419ebe/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/e8f3c346f0d9f84828a3bd5b6f9aa210fb419ebe/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/1ca56ea2cfec5974576e40b2bac7e2dd6539068a/))
+([permalink](https://manubot.github.io/try-manubot/v/e8f3c346f0d9f84828a3bd5b6f9aa210fb419ebe/))
 was automatically generated
-from [manubot/try-manubot@1ca56ea](https://github.com/manubot/try-manubot/tree/1ca56ea2cfec5974576e40b2bac7e2dd6539068a)
+from [manubot/try-manubot@e8f3c34](https://github.com/manubot/try-manubot/tree/e8f3c346f0d9f84828a3bd5b6f9aa210fb419ebe)
 on April 5, 2022.
 </em></small>
 
@@ -121,6 +121,7 @@ Manubot is described in the paper titled "Open collaborative writing with Manubo
 Manubot is described in the paper titled "Open collaborative writing with Manubot" [@url:https://greenelab.github.io/meta-review/].
 Okay
 
+Ok attempting to do this in the correct order. test.
 
 
 ## Main text
