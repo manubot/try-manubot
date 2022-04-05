@@ -6,7 +6,7 @@ keywords:
 - manubot
 - demo
 lang: en-US
-date-meta: '2022-01-14'
+date-meta: '2022-04-05'
 author-meta:
 - John Doe
 - Jane Roe
@@ -20,8 +20,8 @@ header-includes: |-
   <meta name="citation_title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="og:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="twitter:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
-  <meta name="dc.date" content="2022-01-14" />
-  <meta name="citation_publication_date" content="2022-01-14" />
+  <meta name="dc.date" content="2022-04-05" />
+  <meta name="citation_publication_date" content="2022-04-05" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,13 +42,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/try-manubot/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/try-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/26bab4e9cfb4d266d7d514295f9d148068fb7bfb/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/26bab4e9cfb4d266d7d514295f9d148068fb7bfb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/26bab4e9cfb4d266d7d514295f9d148068fb7bfb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/1ca56ea2cfec5974576e40b2bac7e2dd6539068a/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/1ca56ea2cfec5974576e40b2bac7e2dd6539068a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/1ca56ea2cfec5974576e40b2bac7e2dd6539068a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/26bab4e9cfb4d266d7d514295f9d148068fb7bfb/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/26bab4e9cfb4d266d7d514295f9d148068fb7bfb/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/1ca56ea2cfec5974576e40b2bac7e2dd6539068a/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/1ca56ea2cfec5974576e40b2bac7e2dd6539068a/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/26bab4e9cfb4d266d7d514295f9d148068fb7bfb/))
+([permalink](https://manubot.github.io/try-manubot/v/1ca56ea2cfec5974576e40b2bac7e2dd6539068a/))
 was automatically generated
-from [manubot/try-manubot@26bab4e](https://github.com/manubot/try-manubot/tree/26bab4e9cfb4d266d7d514295f9d148068fb7bfb)
-on January 14, 2022.
+from [manubot/try-manubot@1ca56ea](https://github.com/manubot/try-manubot/tree/1ca56ea2cfec5974576e40b2bac7e2dd6539068a)
+on April 5, 2022.
 </em></small>
 
 ## Authors
@@ -80,11 +80,11 @@ on January 14, 2022.
 
 
 + **John Doe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
+    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
     [johndoe](https://twitter.com/johndoe)<br>
   <small>
      Department of Something, University of Whatever
@@ -92,9 +92,9 @@ on January 14, 2022.
   </small>
 
 + **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [janeroe](https://github.com/janeroe)<br>
   <small>
      Department of Something, University of Whatever; Department of Whatever, University of Something

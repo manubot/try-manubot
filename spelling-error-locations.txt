@@ -33,7 +33,6 @@ content/02.main-text.md:7:Duis
 content/02.main-text.md:7:esse
 content/02.main-text.md:7:fugiat
 content/02.main-text.md:7:irure
-content/02.main-text.md:7:nulla
 content/02.main-text.md:7:pariatur
 content/02.main-text.md:7:reprehenderit
 content/02.main-text.md:7:velit
@@ -88,7 +87,6 @@ content/02.main-text.md:19:Duis
 content/02.main-text.md:19:esse
 content/02.main-text.md:19:fugiat
 content/02.main-text.md:19:irure
-content/02.main-text.md:19:nulla
 content/02.main-text.md:19:pariatur
 content/02.main-text.md:19:reprehenderit
 content/02.main-text.md:19:velit
@@ -116,8 +114,6 @@ content/02.main-text.md:54:Burkina
 content/02.main-text.md:54:Faso
 content/02.main-text.md:54:NGOs
 content/02.main-text.md:56:CSO
-content/02.main-text.md:57:mobilisation
-content/02.main-text.md:62:summarised
 content/02.main-text.md:65:agroforestry
 content/02.main-text.md:65:SLM
 content/02.main-text.md:66:programme
