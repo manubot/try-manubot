@@ -29,7 +29,7 @@ header-includes: |-
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
   <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Department of Something: University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@johndoe" />
   <meta name="citation_author" content="Jane Roe" />
@@ -42,13 +42,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/try-manubot/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/try-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/e8f3c346f0d9f84828a3bd5b6f9aa210fb419ebe/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/e8f3c346f0d9f84828a3bd5b6f9aa210fb419ebe/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/e8f3c346f0d9f84828a3bd5b6f9aa210fb419ebe/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/8bbad1cebab42f94ecb47e2e18824d6aacbb3b0a/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/8bbad1cebab42f94ecb47e2e18824d6aacbb3b0a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/8bbad1cebab42f94ecb47e2e18824d6aacbb3b0a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/e8f3c346f0d9f84828a3bd5b6f9aa210fb419ebe/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/e8f3c346f0d9f84828a3bd5b6f9aa210fb419ebe/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/8bbad1cebab42f94ecb47e2e18824d6aacbb3b0a/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/8bbad1cebab42f94ecb47e2e18824d6aacbb3b0a/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/e8f3c346f0d9f84828a3bd5b6f9aa210fb419ebe/))
+([permalink](https://manubot.github.io/try-manubot/v/8bbad1cebab42f94ecb47e2e18824d6aacbb3b0a/))
 was automatically generated
-from [manubot/try-manubot@e8f3c34](https://github.com/manubot/try-manubot/tree/e8f3c346f0d9f84828a3bd5b6f9aa210fb419ebe)
+from [manubot/try-manubot@8bbad1c](https://github.com/manubot/try-manubot/tree/8bbad1cebab42f94ecb47e2e18824d6aacbb3b0a)
 on April 5, 2022.
 </em></small>
 
@@ -87,7 +87,7 @@ on April 5, 2022.
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
     [johndoe](https://twitter.com/johndoe)<br>
   <small>
-     Department of Something, University of Whatever
+     Department of Something: University of Whatever
      · Funded by Grant XXXXXXXX
   </small>
 
