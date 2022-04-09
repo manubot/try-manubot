@@ -6,7 +6,7 @@ keywords:
 - manubot
 - demo
 lang: en-US
-date-meta: '2022-04-05'
+date-meta: '2022-04-09'
 author-meta:
 - John Doe
 - Jane Roe
@@ -20,8 +20,8 @@ header-includes: |-
   <meta name="citation_title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="og:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="twitter:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
-  <meta name="dc.date" content="2022-04-05" />
-  <meta name="citation_publication_date" content="2022-04-05" />
+  <meta name="dc.date" content="2022-04-09" />
+  <meta name="citation_publication_date" content="2022-04-09" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,13 +42,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/try-manubot/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/try-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/c93d714566d20a7434d129da13fc20a7a21925ca/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/c93d714566d20a7434d129da13fc20a7a21925ca/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/c93d714566d20a7434d129da13fc20a7a21925ca/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/a5ec49ca9107c73c8ee09f94e3d3d0e7f1f795d8/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/a5ec49ca9107c73c8ee09f94e3d3d0e7f1f795d8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/a5ec49ca9107c73c8ee09f94e3d3d0e7f1f795d8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/c93d714566d20a7434d129da13fc20a7a21925ca/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/c93d714566d20a7434d129da13fc20a7a21925ca/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/a5ec49ca9107c73c8ee09f94e3d3d0e7f1f795d8/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/a5ec49ca9107c73c8ee09f94e3d3d0e7f1f795d8/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/c93d714566d20a7434d129da13fc20a7a21925ca/))
+([permalink](https://manubot.github.io/try-manubot/v/a5ec49ca9107c73c8ee09f94e3d3d0e7f1f795d8/))
 was automatically generated
-from [manubot/try-manubot@c93d714](https://github.com/manubot/try-manubot/tree/c93d714566d20a7434d129da13fc20a7a21925ca)
-on April 5, 2022.
+from [manubot/try-manubot@a5ec49c](https://github.com/manubot/try-manubot/tree/a5ec49ca9107c73c8ee09f94e3d3d0e7f1f795d8)
+on April 9, 2022.
 </em></small>
 
 ## Authors
@@ -147,8 +147,9 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 I'm wondering about how editing this file works within the web browser.
 
-Testing inserting a reference Note that some buffers can potentially introduce modifications onto proteins such as carbamylation from urea at high temperatures [@doi: 10.1016/j.ab.2013.10.024; @doi.org/10.1016/j.ab.2021.114321] . 
+Testing inserting a reference Note that some buffers can potentially introduce modifications onto proteins such as carbamylation from urea at high temperatures [@doi:10.1016/j.ab.2013.10.024; @doi:10.1016/j.ab.2021.114321] . 
 
+Trying with references again [@PMID:24161613]
 
 The objectives of the action plan for each sector are as follows:
 
