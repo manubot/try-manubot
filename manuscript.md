@@ -6,22 +6,26 @@ keywords:
 - manubot
 - demo
 lang: en-US
-date-meta: '2023-02-23'
+date-meta: '2023-02-25'
 author-meta:
 - John Doe
 - Jane Roe
-header-includes: |-
+header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
+  <meta property="og:type" content="article" />
   <meta name="dc.title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta name="citation_title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="og:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="twitter:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
-  <meta name="dc.date" content="2023-02-23" />
-  <meta name="citation_publication_date" content="2023-02-23" />
+  <meta name="dc.date" content="2023-02-25" />
+  <meta name="citation_publication_date" content="2023-02-25" />
+  <meta property="article:published_time" content="2023-02-25" />
+  <meta name="dc.modified" content="2023-02-25T14:11:52+00:00" />
+  <meta property="article:modified_time" content="2023-02-25T14:11:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,13 +46,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/try-manubot/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/try-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/9e30760119288e4e295acf92b7d606382f0c39a5/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/9e30760119288e4e295acf92b7d606382f0c39a5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/9e30760119288e4e295acf92b7d606382f0c39a5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/3fb91bf21ec55c8635419faec676df042e0abdb1/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/3fb91bf21ec55c8635419faec676df042e0abdb1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/3fb91bf21ec55c8635419faec676df042e0abdb1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/9e30760119288e4e295acf92b7d606382f0c39a5/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/9e30760119288e4e295acf92b7d606382f0c39a5/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/3fb91bf21ec55c8635419faec676df042e0abdb1/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/3fb91bf21ec55c8635419faec676df042e0abdb1/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -69,37 +73,53 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/9e30760119288e4e295acf92b7d606382f0c39a5/))
+([permalink](https://manubot.github.io/try-manubot/v/3fb91bf21ec55c8635419faec676df042e0abdb1/))
 was automatically generated
-from [manubot/try-manubot@9e30760](https://github.com/manubot/try-manubot/tree/9e30760119288e4e295acf92b7d606382f0c39a5)
-on February 23, 2023.
+from [manubot/try-manubot@3fb91bf](https://github.com/manubot/try-manubot/tree/3fb91bf21ec55c8635419faec676df042e0abdb1)
+on February 25, 2023.
 </em></small>
+
+
 
 ## Authors
 
 
 
-+ **John Doe**<br>
++ **John Doe**
+  <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [johndoe](https://github.com/johndoe)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [johndoe](https://twitter.com/johndoe)
+    · ![Mastodon icon](images/mastodon.svg){.inline_icon}
+    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    <br>
   <small>
      Department of Something: University of Whatever
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**<br>
++ **Jane Roe**
+  ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)<br>
+    [janeroe](https://github.com/janeroe)
+    <br>
   <small>
      Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
+
+::: {#correspondence}
+✉ — Correspondence possible via [GitHub Issues](https://github.com/manubot/try-manubot/issues)
+or email to
+Jane Roe \<jane.roe@whatever.edu\>.
+
+
+:::
 
 
 ## Abstract {.page_break_before}
@@ -110,15 +130,15 @@ Manubot applies the git-based software workflow to scholarly writing, enabling e
 This manuscript is a Manubot demo, intended to give users a playground to practice using Manubot.
 Everyone is encouraged to try writing with Manubot by editing this manuscript.
 
-Manubot is described in the paper titled "Open collaborative writing with Manubot" [@url:https://greenelab.github.io/meta-review/].
+Manubot is described in the paper titled "Open collaborative writing with Manubot" [@url:https://greenelab.github.io/meta-review].
 
 Test my understanding
 
 Just a paper [@url:https://www.nature.com/articles/nature18003]
 
-Manubot is described in the paper titled "Open collaborative writing with Manubot" [@url:https://mir-mohammad.github.io/].
+Manubot is not described in [@url:https://mir-mohammad.github.io].
 
-Manubot is described in the paper titled "Open collaborative writing with Manubot" [@url:https://greenelab.github.io/meta-review/].
+Manubot is described in the paper titled "Open collaborative writing with Manubot" [@url:https://greenelab.github.io/meta-review].
 Okay
 
 Ok attempting to do this in the correct order. test.
@@ -135,7 +155,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Manubot makes it easy to cite this manuscript [@url:https://manubot.github.io/try-manubot/].
+Manubot makes it easy to cite this manuscript [@url:https://manubot.github.io/try-manubot].
 It has been used to write several manuscripts that are now preprints on _bioRxiv_ [@doi:10.1101/474403; @doi:10.1101/515940; @doi:10.1101/502484; @doi:10.1101/654566].
 Notice that only [@doi:10.1101/502484] has the correct name of the preprint server.
 Manubot allows authors to overwrite reference information, in this case with a BibTeX file.
@@ -206,3 +226,4 @@ Great Idea!
 
 <!-- Explicitly insert bibliography here -->
 <div id="refs"></div>
+

@@ -6,16 +6,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="John Doe" />
   <meta name="author" content="Jane Roe" />
-  <meta name="dcterms.date" content="2023-02-23" />
+  <meta name="dcterms.date" content="2023-02-25" />
   <meta name="keywords" content="markdown, publishing, manubot, demo" />
   <title>Edit me to practice contributing to a collaborative Manubot manuscript</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
@@ -41,12 +46,16 @@
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
+  <meta property="og:type" content="article" />
   <meta name="dc.title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta name="citation_title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="og:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="twitter:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
-  <meta name="dc.date" content="2023-02-23" />
-  <meta name="citation_publication_date" content="2023-02-23" />
+  <meta name="dc.date" content="2023-02-25" />
+  <meta name="citation_publication_date" content="2023-02-25" />
+  <meta property="article:published_time" content="2023-02-25" />
+  <meta name="dc.modified" content="2023-02-25T14:11:52+00:00" />
+  <meta property="article:modified_time" content="2023-02-25T14:11:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -67,13 +76,13 @@
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/try-manubot/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/try-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/9e30760119288e4e295acf92b7d606382f0c39a5/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/9e30760119288e4e295acf92b7d606382f0c39a5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/9e30760119288e4e295acf92b7d606382f0c39a5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/3fb91bf21ec55c8635419faec676df042e0abdb1/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/3fb91bf21ec55c8635419faec676df042e0abdb1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/3fb91bf21ec55c8635419faec676df042e0abdb1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/9e30760119288e4e295acf92b7d606382f0c39a5/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/9e30760119288e4e295acf92b7d606382f0c39a5/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/3fb91bf21ec55c8635419faec676df042e0abdb1/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/3fb91bf21ec55c8635419faec676df042e0abdb1/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -88,43 +97,54 @@
 </header>
 <p><small><em>
 test edit - hello world. This manuscript
-(<a href="https://manubot.github.io/try-manubot/v/9e30760119288e4e295acf92b7d606382f0c39a5/">permalink</a>)
+(<a href="https://manubot.github.io/try-manubot/v/3fb91bf21ec55c8635419faec676df042e0abdb1/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/manubot/try-manubot/tree/9e30760119288e4e295acf92b7d606382f0c39a5">manubot/try-manubot@9e30760</a>
-on February 23, 2023.
+from <a href="https://github.com/manubot/try-manubot/tree/3fb91bf21ec55c8635419faec676df042e0abdb1">manubot/try-manubot@3fb91bf</a>
+on February 25, 2023.
 </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
-<li><p><strong>John Doe</strong><br>
+<li><p><strong>John Doe</strong>
+<br>
 <img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
 <a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX">XXXX-XXXX-XXXX-XXXX</a>
 · <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
 <a href="https://github.com/johndoe">johndoe</a>
 · <img src="images/twitter.svg" class="inline_icon" width="16" height="16" alt="Twitter icon" />
-<a href="https://twitter.com/johndoe">johndoe</a><br>
+<a href="https://twitter.com/johndoe">johndoe</a>
+· <img src="images/mastodon.svg" class="inline_icon" alt="Mastodon icon" />
+<a href="https://mastodon.social/@johndoe">@johndoe@mastodon.social</a>
+<br>
 <small>
 Department of Something: University of Whatever
 · Funded by Grant XXXXXXXX
 </small></p></li>
-<li><p><strong>Jane Roe</strong><br>
+<li><p><strong>Jane Roe</strong>
+<sup><a href="#correspondence">✉</a></sup><br>
 <img src="images/orcid.svg" class="inline_icon" width="16" height="16" alt="ORCID icon" />
 <a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX">XXXX-XXXX-XXXX-XXXX</a>
 · <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/janeroe">janeroe</a><br>
+<a href="https://github.com/janeroe">janeroe</a>
+<br>
 <small>
 Department of Something, University of Whatever; Department of Whatever, University of Something
 </small></p></li>
 </ul>
+<div id="correspondence">
+<p>✉ — Correspondence possible via <a href="https://github.com/manubot/try-manubot/issues">GitHub Issues</a>
+or email to
+Jane Roe &lt;jane.roe@whatever.edu&gt;.</p>
+</div>
 <h2 class="page_break_before" id="abstract">Abstract</h2>
 <p>Manubot is an open source tool for writing manuscripts on GitHub in markdown format.
 Manubot applies the git-based software workflow to scholarly writing, enabling enhanced transparency, collaboration, automation, and reproducibility.</p>
 <p>This manuscript is a Manubot demo, intended to give users a playground to practice using Manubot.
 Everyone is encouraged to try writing with Manubot by editing this manuscript.</p>
-<p>Manubot is described in the paper titled “Open collaborative writing with Manubot” <span class="citation" data-cites="6acIRW4q">[<a href="#ref-6acIRW4q" role="doc-biblioref">1</a>/]</span>.</p>
+<p>Manubot is described in the paper titled “Open collaborative writing with Manubot” <span class="citation" data-cites="6acIRW4q">[<a href="#ref-6acIRW4q" role="doc-biblioref">1</a>]</span>.</p>
 <p>Test my understanding</p>
 <p>Just a paper <span class="citation" data-cites="53ynNxaP">[<a href="#ref-53ynNxaP" role="doc-biblioref">2</a>]</span></p>
-<p>Manubot is described in the paper titled “Open collaborative writing with Manubot” <span class="citation" data-cites="fDX6cz6W">[<a href="#ref-fDX6cz6W" role="doc-biblioref">3</a>/]</span>.</p>
-<p>Manubot is described in the paper titled “Open collaborative writing with Manubot” <span class="citation" data-cites="6acIRW4q">[<a href="#ref-6acIRW4q" role="doc-biblioref">1</a>/]</span>.
+<p>Manubot is not described in <span class="citation" data-cites="fDX6cz6W">[<a href="#ref-fDX6cz6W" role="doc-biblioref">3</a>]</span>.</p>
+<p>Manubot is described in the paper titled “Open collaborative writing with Manubot” <span class="citation" data-cites="6acIRW4q">[<a href="#ref-6acIRW4q" role="doc-biblioref">1</a>]</span>.
 Okay</p>
 <p>Ok attempting to do this in the correct order. test.</p>
 <p>Test the workflow of manubot and its citation rule <span class="citation" data-cites="Qbv9ahA7">[<a href="#ref-Qbv9ahA7" role="doc-biblioref">4</a>]</span></p>
@@ -134,18 +154,18 @@ Okay</p>
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<p>Manubot makes it easy to cite this manuscript <span class="citation" data-cites="ZWuDuPis">[<a href="#ref-ZWuDuPis" role="doc-biblioref">6</a>/]</span>.
+<p>Manubot makes it easy to cite this manuscript <span class="citation" data-cites="ZWuDuPis">[<a href="#ref-ZWuDuPis" role="doc-biblioref">6</a>]</span>.
 It has been used to write several manuscripts that are now preprints on <em>bioRxiv</em> <span class="citation" data-cites="LGjXBQ7t O3pCOA4K 1Pz4wmGn r2krHy6V">[<a href="#ref-LGjXBQ7t" role="doc-biblioref">7</a>,<a href="#ref-O3pCOA4K" role="doc-biblioref">8</a>,<a href="#ref-1Pz4wmGn" role="doc-biblioref">9</a>,<a href="#ref-r2krHy6V" role="doc-biblioref">10</a>]</span>.
 Notice that only <span class="citation" data-cites="1Pz4wmGn">[<a href="#ref-1Pz4wmGn" role="doc-biblioref">9</a>]</span> has the correct name of the preprint server.
 Manubot allows authors to overwrite reference information, in this case with a BibTeX file.</p>
-<p>Lorem ipsum also makes a strong conclusion <span class="citation" data-cites="PMID:26945319">[<a href="#ref-PMID:26945319" role="doc-biblioref"><strong>PMID:26945319?</strong></a>]</span> here is another reference to see if duplicate references are picked up by the program if the second author uses a different identifier for the same reference like here with the immediately preceding reference <span class="citation" data-cites="W2Ds0TC7">[<a href="#ref-W2Ds0TC7" role="doc-biblioref">11</a>]</span>. Did it work?</p>
+<p>Lorem ipsum also makes a strong conclusion <span class="citation" data-cites="AOGz11lW">[<a href="#ref-AOGz11lW" role="doc-biblioref">11</a>]</span> here is another reference to see if duplicate references are picked up by the program if the second author uses a different identifier for the same reference like here with the immediately preceding reference <span class="citation" data-cites="W2Ds0TC7">[<a href="#ref-W2Ds0TC7" role="doc-biblioref">12</a>]</span>. Did it work?</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <p>I’m wondering about how editing this file works within the web browser.</p>
-<p>Testing inserting a reference Note that some buffers can potentially introduce modifications onto proteins such as carbamylation from urea at high temperatures <span class="citation" data-cites="UMCPT0iA 1EK5kIOBS">[<a href="#ref-UMCPT0iA" role="doc-biblioref">12</a>,<a href="#ref-1EK5kIOBS" role="doc-biblioref">13</a>]</span> .</p>
-<p>Trying with references again <span class="citation" data-cites="PMID:24161613">[<a href="#ref-PMID:24161613" role="doc-biblioref"><strong>PMID:24161613?</strong></a>]</span></p>
+<p>Testing inserting a reference Note that some buffers can potentially introduce modifications onto proteins such as carbamylation from urea at high temperatures <span class="citation" data-cites="UMCPT0iA 1EK5kIOBS">[<a href="#ref-UMCPT0iA" role="doc-biblioref">13</a>,<a href="#ref-1EK5kIOBS" role="doc-biblioref">14</a>]</span> .</p>
+<p>Trying with references again <span class="citation" data-cites="B8hLhFif">[<a href="#ref-B8hLhFif" role="doc-biblioref">15</a>]</span></p>
 <p>The objectives of the action plan for each sector are as follows:</p>
 <table>
 <colgroup>
@@ -312,7 +332,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 </tr>
 <tr class="even">
 <td>Livestock farming</td>
-<td>- Fight bush fires in order to prevent destruction <span class="citation" data-cites="f1rhxWdV">[<a href="#ref-f1rhxWdV" role="doc-biblioref">14</a>]</span> of dry-season grazing reserves- Adopt best animal husbandry and pastoral practices (pastoral hydraulics, pastoral resource management, pasture mowing and conservation, pasture crops, silage, animal mobility and transhumance etc.) - Ensure stakeholders take account of climate variability in development project and programme planning by improving their skills - Preserve cattle breeding at serious risk from climate variability - Ensure farmers adopt animal production methods adapted to a hot climate</td>
+<td>- Fight bush fires in order to prevent destruction <span class="citation" data-cites="f1rhxWdV">[<a href="#ref-f1rhxWdV" role="doc-biblioref">16</a>]</span> of dry-season grazing reserves- Adopt best animal husbandry and pastoral practices (pastoral hydraulics, pastoral resource management, pasture mowing and conservation, pasture crops, silage, animal mobility and transhumance etc.) - Ensure stakeholders take account of climate variability in development project and programme planning by improving their skills - Preserve cattle breeding at serious risk from climate variability - Ensure farmers adopt animal production methods adapted to a hot climate</td>
 </tr>
 </tbody>
 </table>
@@ -337,7 +357,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 <div class="csl-left-margin">5. </div><div class="csl-right-inline"><strong>&lt;i&gt;Lorem ipsum&lt;/i&gt;</strong> <div class="csl-block">Wikipedia</div> (2023-02-05) <a href="https://en.wikipedia.org/w/index.php?title=Lorem_ipsum&amp;oldid=1137571208">https://en.wikipedia.org/w/index.php?title=Lorem_ipsum&amp;oldid=1137571208</a></div>
 </div>
 <div id="ref-ZWuDuPis" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">6. </div><div class="csl-right-inline"><strong>Edit me to practice contributing to a collaborative Manubot manuscript</strong> <div class="csl-block">John Doe, Jane Roe</div> <em>Manubot</em> (2022-04-09) <a href="https://manubot.github.io/try-manubot/">https://manubot.github.io/try-manubot/</a></div>
+<div class="csl-left-margin">6. </div><div class="csl-right-inline"><strong>Edit me to practice contributing to a collaborative Manubot manuscript</strong> <div class="csl-block">John Doe, Jane Roe</div> <em>Manubot</em> (2023-02-23) <a href="https://manubot.github.io/try-manubot/">https://manubot.github.io/try-manubot/</a></div>
 </div>
 <div id="ref-LGjXBQ7t" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">7. </div><div class="csl-right-inline"><strong>GimmeMotifs: an analysis framework for transcription factor motif analysis</strong> <div class="csl-block">Niklas Bruse, Simon J van Heeringen</div> <em>Cold Spring Harbor Laboratory</em> (2018-11-20) <a href="https://doi.org/gfxrkc">https://doi.org/gfxrkc</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1101/474403">10.1101/474403</a></div></div>
@@ -351,17 +371,23 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 <div id="ref-r2krHy6V" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">10. </div><div class="csl-right-inline"><strong>Genotyping structural variants in pangenome graphs using the vg toolkit</strong> <div class="csl-block">Glenn Hickey, David Heller, Jean Monlong, Jonas A Sibbesen, Jouni Sirén, Jordan Eizenga, Eric T Dawson, Erik Garrison, Adam M Novak, Benedict Paten</div> <em>Cold Spring Harbor Laboratory</em> (2019-06-01) <a href="https://doi.org/gf3jfm">https://doi.org/gf3jfm</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1101/654566">10.1101/654566</a></div></div>
 </div>
+<div id="ref-AOGz11lW" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">11. </div><div class="csl-right-inline"><strong>Hypothermic machine perfusion in kidney transplantation.</strong> <div class="csl-block">Julie De Deken, Peri Kocabayoglu, Cyril Moers</div> <em>Current opinion in organ transplantation</em> (2016-06) <a href="https://www.ncbi.nlm.nih.gov/pubmed/26945319">https://www.ncbi.nlm.nih.gov/pubmed/26945319</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1097/mot.0000000000000306">10.1097/mot.0000000000000306</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26945319">26945319</a></div></div>
+</div>
 <div id="ref-W2Ds0TC7" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">11. </div><div class="csl-right-inline"><strong>Hypothermic machine perfusion in kidney transplantation</strong> <div class="csl-block">Julie De Deken, Peri Kocabayoglu, Cyril Moers</div> <em>Current Opinion in Organ Transplantation</em> (2016-06) <a href="https://doi.org/f8mswg">https://doi.org/f8mswg</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1097/mot.0000000000000306">10.1097/mot.0000000000000306</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26945319">26945319</a></div></div>
+<div class="csl-left-margin">12. </div><div class="csl-right-inline"><strong>Hypothermic machine perfusion in kidney transplantation</strong> <div class="csl-block">Julie De Deken, Peri Kocabayoglu, Cyril Moers</div> <em>Current Opinion in Organ Transplantation</em> (2016-06) <a href="https://doi.org/f8mswg">https://doi.org/f8mswg</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1097/mot.0000000000000306">10.1097/mot.0000000000000306</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26945319">26945319</a></div></div>
 </div>
 <div id="ref-UMCPT0iA" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">12. </div><div class="csl-right-inline"><strong>Inhibition of protein carbamylation in urea solution using ammonium-containing buffers</strong> <div class="csl-block">Shisheng Sun, Jian-Ying Zhou, Weiming Yang, Hui Zhang</div> <em>Analytical Biochemistry</em> (2014-02) <a href="https://doi.org/f5pjdg">https://doi.org/f5pjdg</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1016/j.ab.2013.10.024">10.1016/j.ab.2013.10.024</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/24161613">24161613</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072244">PMC4072244</a></div></div>
+<div class="csl-left-margin">13. </div><div class="csl-right-inline"><strong>Inhibition of protein carbamylation in urea solution using ammonium-containing buffers</strong> <div class="csl-block">Shisheng Sun, Jian-Ying Zhou, Weiming Yang, Hui Zhang</div> <em>Analytical Biochemistry</em> (2014-02) <a href="https://doi.org/f5pjdg">https://doi.org/f5pjdg</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1016/j.ab.2013.10.024">10.1016/j.ab.2013.10.024</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/24161613">24161613</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072244">PMC4072244</a></div></div>
 </div>
 <div id="ref-1EK5kIOBS" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">13. </div><div class="csl-right-inline"><strong>Pandora box of BCA assay. Investigation of the accuracy and linearity of the microplate bicinchoninic protein assay: Analytical challenges and method modifications to minimize systematic errors</strong> <div class="csl-block">Eduard Rogatsky</div> <em>Analytical Biochemistry</em> (2021-10) <a href="https://doi.org/gpvbj4">https://doi.org/gpvbj4</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1016/j.ab.2021.114321">10.1016/j.ab.2021.114321</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34343481">34343481</a></div></div>
+<div class="csl-left-margin">14. </div><div class="csl-right-inline"><strong>Pandora box of BCA assay. Investigation of the accuracy and linearity of the microplate bicinchoninic protein assay: Analytical challenges and method modifications to minimize systematic errors</strong> <div class="csl-block">Eduard Rogatsky</div> <em>Analytical Biochemistry</em> (2021-10) <a href="https://doi.org/gpvbj4">https://doi.org/gpvbj4</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1016/j.ab.2021.114321">10.1016/j.ab.2021.114321</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/34343481">34343481</a></div></div>
+</div>
+<div id="ref-B8hLhFif" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">15. </div><div class="csl-right-inline"><strong>Inhibition of protein carbamylation in urea solution using ammonium-containing buffers.</strong> <div class="csl-block">Shisheng Sun, Jian-Ying Zhou, Weiming Yang, Hui Zhang</div> <em>Analytical biochemistry</em> (2013-10-23) <a href="https://www.ncbi.nlm.nih.gov/pubmed/24161613">https://www.ncbi.nlm.nih.gov/pubmed/24161613</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1016/j.ab.2013.10.024">10.1016/j.ab.2013.10.024</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/24161613">24161613</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4072244">PMC4072244</a></div></div>
 </div>
 <div id="ref-f1rhxWdV" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">14. </div><div class="csl-right-inline"><strong>A primer on leading the improvement of systems</strong> <div class="csl-block">DM Berwick</div> <em>BMJ</em> (1996-03-09) <a href="https://doi.org/ddjp63">https://doi.org/ddjp63</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1136/bmj.312.7031.619">10.1136/bmj.312.7031.619</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/8595340">8595340</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2350403">PMC2350403</a></div></div>
+<div class="csl-left-margin">16. </div><div class="csl-right-inline"><strong>A primer on leading the improvement of systems</strong> <div class="csl-block">DM Berwick</div> <em>BMJ</em> (1996-03-09) <a href="https://doi.org/ddjp63">https://doi.org/ddjp63</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1136/bmj.312.7031.619">10.1136/bmj.312.7031.619</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/8595340">8595340</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2350403">PMC2350403</a></div></div>
 </div>
 </div>
 <!-- default theme -->
