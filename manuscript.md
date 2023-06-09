@@ -6,7 +6,7 @@ keywords:
 - manubot
 - demo
 lang: en-US
-date-meta: '2023-02-25'
+date-meta: '2023-06-09'
 author-meta:
 - John Doe
 - Jane Roe
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="og:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="twitter:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
-  <meta name="dc.date" content="2023-02-25" />
-  <meta name="citation_publication_date" content="2023-02-25" />
-  <meta property="article:published_time" content="2023-02-25" />
-  <meta name="dc.modified" content="2023-02-25T14:11:52+00:00" />
-  <meta property="article:modified_time" content="2023-02-25T14:11:52+00:00" />
+  <meta name="dc.date" content="2023-06-09" />
+  <meta name="citation_publication_date" content="2023-06-09" />
+  <meta property="article:published_time" content="2023-06-09" />
+  <meta name="dc.modified" content="2023-06-09T19:53:55+00:00" />
+  <meta property="article:modified_time" content="2023-06-09T19:53:55+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,13 +46,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/try-manubot/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/try-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/3fb91bf21ec55c8635419faec676df042e0abdb1/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/3fb91bf21ec55c8635419faec676df042e0abdb1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/3fb91bf21ec55c8635419faec676df042e0abdb1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/b7c5e5e249c18e82f31eeb7304dc9485732f7ff0/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/b7c5e5e249c18e82f31eeb7304dc9485732f7ff0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/b7c5e5e249c18e82f31eeb7304dc9485732f7ff0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/3fb91bf21ec55c8635419faec676df042e0abdb1/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/3fb91bf21ec55c8635419faec676df042e0abdb1/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/b7c5e5e249c18e82f31eeb7304dc9485732f7ff0/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/b7c5e5e249c18e82f31eeb7304dc9485732f7ff0/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -73,10 +73,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/3fb91bf21ec55c8635419faec676df042e0abdb1/))
+([permalink](https://manubot.github.io/try-manubot/v/b7c5e5e249c18e82f31eeb7304dc9485732f7ff0/))
 was automatically generated
-from [manubot/try-manubot@3fb91bf](https://github.com/manubot/try-manubot/tree/3fb91bf21ec55c8635419faec676df042e0abdb1)
-on February 25, 2023.
+from [manubot/try-manubot@b7c5e5e](https://github.com/manubot/try-manubot/tree/b7c5e5e249c18e82f31eeb7304dc9485732f7ff0)
+on June 9, 2023.
 </em></small>
 
 
@@ -220,6 +220,8 @@ The objectives of the action plan for each sector are as follows:
 I wonder what happens if I do hto
 
 Great Idea!
+
+Testing some identifier types [@bioproject:PRJDB3] and [@4dn:4DNES265ETYQ] and [@geo:GDS1234]
 
 
 ## References {.page_break_before}
