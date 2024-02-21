@@ -6,7 +6,7 @@ keywords:
 - manubot
 - demo
 lang: en-US
-date-meta: '2023-06-09'
+date-meta: '2024-02-21'
 author-meta:
 - John Doe
 - Jane Roe
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="og:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="twitter:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
-  <meta name="dc.date" content="2023-06-09" />
-  <meta name="citation_publication_date" content="2023-06-09" />
-  <meta property="article:published_time" content="2023-06-09" />
-  <meta name="dc.modified" content="2023-06-09T19:53:55+00:00" />
-  <meta property="article:modified_time" content="2023-06-09T19:53:55+00:00" />
+  <meta name="dc.date" content="2024-02-21" />
+  <meta name="citation_publication_date" content="2024-02-21" />
+  <meta property="article:published_time" content="2024-02-21" />
+  <meta name="dc.modified" content="2024-02-21T03:42:36+00:00" />
+  <meta property="article:modified_time" content="2024-02-21T03:42:36+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,13 +46,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/try-manubot/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/try-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/b7c5e5e249c18e82f31eeb7304dc9485732f7ff0/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/b7c5e5e249c18e82f31eeb7304dc9485732f7ff0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/b7c5e5e249c18e82f31eeb7304dc9485732f7ff0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/b26ff4a9778862c84a4292f95567793f7dac9e22/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/b26ff4a9778862c84a4292f95567793f7dac9e22/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/b26ff4a9778862c84a4292f95567793f7dac9e22/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/b7c5e5e249c18e82f31eeb7304dc9485732f7ff0/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/b7c5e5e249c18e82f31eeb7304dc9485732f7ff0/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/b26ff4a9778862c84a4292f95567793f7dac9e22/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/b26ff4a9778862c84a4292f95567793f7dac9e22/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -73,10 +73,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/b7c5e5e249c18e82f31eeb7304dc9485732f7ff0/))
+([permalink](https://manubot.github.io/try-manubot/v/b26ff4a9778862c84a4292f95567793f7dac9e22/))
 was automatically generated
-from [manubot/try-manubot@b7c5e5e](https://github.com/manubot/try-manubot/tree/b7c5e5e249c18e82f31eeb7304dc9485732f7ff0)
-on June 9, 2023.
+from [manubot/try-manubot@b26ff4a](https://github.com/manubot/try-manubot/tree/b26ff4a9778862c84a4292f95567793f7dac9e22)
+on February 21, 2024.
 </em></small>
 
 
@@ -93,7 +93,7 @@ on June 9, 2023.
     [johndoe](https://github.com/johndoe)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
     [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon}
+    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
     [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
     <br>
   <small>
