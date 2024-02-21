@@ -24,8 +24,8 @@ header-includes: |
   <meta name="dc.date" content="2024-02-21" />
   <meta name="citation_publication_date" content="2024-02-21" />
   <meta property="article:published_time" content="2024-02-21" />
-  <meta name="dc.modified" content="2024-02-21T03:42:36+00:00" />
-  <meta property="article:modified_time" content="2024-02-21T03:42:36+00:00" />
+  <meta name="dc.modified" content="2024-02-21T03:50:49+00:00" />
+  <meta property="article:modified_time" content="2024-02-21T03:50:49+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,13 +46,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/try-manubot/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/try-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/b26ff4a9778862c84a4292f95567793f7dac9e22/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/b26ff4a9778862c84a4292f95567793f7dac9e22/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/b26ff4a9778862c84a4292f95567793f7dac9e22/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/63aa7bc80b60eefdba543c2805a64f277fe3fdae/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/63aa7bc80b60eefdba543c2805a64f277fe3fdae/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/63aa7bc80b60eefdba543c2805a64f277fe3fdae/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/b26ff4a9778862c84a4292f95567793f7dac9e22/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/b26ff4a9778862c84a4292f95567793f7dac9e22/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/63aa7bc80b60eefdba543c2805a64f277fe3fdae/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/63aa7bc80b60eefdba543c2805a64f277fe3fdae/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -73,9 +73,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/b26ff4a9778862c84a4292f95567793f7dac9e22/))
+([permalink](https://manubot.github.io/try-manubot/v/63aa7bc80b60eefdba543c2805a64f277fe3fdae/))
 was automatically generated
-from [manubot/try-manubot@b26ff4a](https://github.com/manubot/try-manubot/tree/b26ff4a9778862c84a4292f95567793f7dac9e22)
+from [manubot/try-manubot@63aa7bc](https://github.com/manubot/try-manubot/tree/63aa7bc80b60eefdba543c2805a64f277fe3fdae)
 on February 21, 2024.
 </em></small>
 
@@ -142,6 +142,8 @@ Manubot is described in the paper titled "Open collaborative writing with Manubo
 Okay
 
 Ok attempting to do this in the correct order. test.
+
+This is the updation done by Mohsin in the manuscript.
 
 Test the workflow of manubot and its citation rule [@url:https://www.biorxiv.org/content/10.1101/2023.01.21.525030v1.full]
 
