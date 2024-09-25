@@ -6,7 +6,7 @@ keywords:
 - manubot
 - demo
 lang: en-US
-date-meta: '2024-02-21'
+date-meta: '2024-09-25'
 author-meta:
 - John Doe
 - Jane Roe
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="og:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="twitter:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
-  <meta name="dc.date" content="2024-02-21" />
-  <meta name="citation_publication_date" content="2024-02-21" />
-  <meta property="article:published_time" content="2024-02-21" />
-  <meta name="dc.modified" content="2024-02-21T03:50:49+00:00" />
-  <meta property="article:modified_time" content="2024-02-21T03:50:49+00:00" />
+  <meta name="dc.date" content="2024-09-25" />
+  <meta name="citation_publication_date" content="2024-09-25" />
+  <meta property="article:published_time" content="2024-09-25" />
+  <meta name="dc.modified" content="2024-09-25T02:23:54+00:00" />
+  <meta property="article:modified_time" content="2024-09-25T02:23:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,13 +46,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/try-manubot/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/try-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/63aa7bc80b60eefdba543c2805a64f277fe3fdae/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/63aa7bc80b60eefdba543c2805a64f277fe3fdae/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/63aa7bc80b60eefdba543c2805a64f277fe3fdae/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/f977ad7bb08b7711c6a61615ab8510fae1dd4aa7/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/f977ad7bb08b7711c6a61615ab8510fae1dd4aa7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/f977ad7bb08b7711c6a61615ab8510fae1dd4aa7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/63aa7bc80b60eefdba543c2805a64f277fe3fdae/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/63aa7bc80b60eefdba543c2805a64f277fe3fdae/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/f977ad7bb08b7711c6a61615ab8510fae1dd4aa7/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/f977ad7bb08b7711c6a61615ab8510fae1dd4aa7/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -73,10 +73,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/63aa7bc80b60eefdba543c2805a64f277fe3fdae/))
+([permalink](https://manubot.github.io/try-manubot/v/f977ad7bb08b7711c6a61615ab8510fae1dd4aa7/))
 was automatically generated
-from [manubot/try-manubot@63aa7bc](https://github.com/manubot/try-manubot/tree/63aa7bc80b60eefdba543c2805a64f277fe3fdae)
-on February 21, 2024.
+from [manubot/try-manubot@f977ad7](https://github.com/manubot/try-manubot/tree/f977ad7bb08b7711c6a61615ab8510fae1dd4aa7)
+on September 25, 2024.
 </em></small>
 
 
@@ -146,6 +146,7 @@ Ok attempting to do this in the correct order. test.
 This is the updation done by Mohsin in the manuscript.
 
 Test the workflow of manubot and its citation rule [@url:https://www.biorxiv.org/content/10.1101/2023.01.21.525030v1.full]
+Trial by me
 
 
 ## Main text
