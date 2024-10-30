@@ -6,7 +6,7 @@ keywords:
 - manubot
 - demo
 lang: en-US
-date-meta: '2024-10-02'
+date-meta: '2024-10-30'
 author-meta:
 - John Doe
 - Jane Roe
@@ -21,11 +21,11 @@ header-includes: |
   <meta name="citation_title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="og:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
   <meta property="twitter:title" content="Edit me to practice contributing to a collaborative Manubot manuscript" />
-  <meta name="dc.date" content="2024-10-02" />
-  <meta name="citation_publication_date" content="2024-10-02" />
-  <meta property="article:published_time" content="2024-10-02" />
-  <meta name="dc.modified" content="2024-10-02T04:15:16+00:00" />
-  <meta property="article:modified_time" content="2024-10-02T04:15:16+00:00" />
+  <meta name="dc.date" content="2024-10-30" />
+  <meta name="citation_publication_date" content="2024-10-30" />
+  <meta property="article:published_time" content="2024-10-30" />
+  <meta name="dc.modified" content="2024-10-30T21:25:41+00:00" />
+  <meta property="article:modified_time" content="2024-10-30T21:25:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -46,13 +46,13 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://manubot.github.io/try-manubot/" />
   <meta name="citation_pdf_url" content="https://manubot.github.io/try-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://manubot.github.io/try-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/0f07677e0ec9ba6f2ae8a577971ca0be75f3c7b1/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/0f07677e0ec9ba6f2ae8a577971ca0be75f3c7b1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/0f07677e0ec9ba6f2ae8a577971ca0be75f3c7b1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://manubot.github.io/try-manubot/v/a9abbff91cd2dd5f18379fba65a4939f6a2ec63c/" />
+  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/try-manubot/v/a9abbff91cd2dd5f18379fba65a4939f6a2ec63c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/try-manubot/v/a9abbff91cd2dd5f18379fba65a4939f6a2ec63c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/0f07677e0ec9ba6f2ae8a577971ca0be75f3c7b1/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/0f07677e0ec9ba6f2ae8a577971ca0be75f3c7b1/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/manubot/try-manubot/raw/a9abbff91cd2dd5f18379fba65a4939f6a2ec63c/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/manubot/try-manubot/raw/a9abbff91cd2dd5f18379fba65a4939f6a2ec63c/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -73,10 +73,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 test edit - hello world. This manuscript
-([permalink](https://manubot.github.io/try-manubot/v/0f07677e0ec9ba6f2ae8a577971ca0be75f3c7b1/))
+([permalink](https://manubot.github.io/try-manubot/v/a9abbff91cd2dd5f18379fba65a4939f6a2ec63c/))
 was automatically generated
-from [manubot/try-manubot@0f07677](https://github.com/manubot/try-manubot/tree/0f07677e0ec9ba6f2ae8a577971ca0be75f3c7b1)
-on October 2, 2024.
+from [manubot/try-manubot@a9abbff](https://github.com/manubot/try-manubot/tree/a9abbff91cd2dd5f18379fba65a4939f6a2ec63c)
+on October 30, 2024.
 </em></small>
 
 
@@ -149,6 +149,8 @@ Test the workflow of manubot and its citation rule [@url:https://www.biorxiv.org
 Trial by me
 
 Manubot is described in the paper titled "Open collaborative writing with Manubot".
+
+Testing this
 
 
 ## Main text
