@@ -1,7 +1,4 @@
 content/01.abstract.md:4:reproducibility
-content/01.abstract.md:22:Mohsin
-content/01.abstract.md:22:updation
-content/01.abstract.md:24:biorxiv
 content/02.main-text.md:3:ipsum
 content/02.main-text.md:3:Lorem
 content/02.main-text.md:5:adipiscing
