@@ -16,7 +16,7 @@ on:
         description: 'Language model'
         required: true
         type: string
-        default: 'text-davinci-003'
+        default: 'gpt-4-turbo'
       custom_prompt:
         description: 'Custom prompt'
         required: false
@@ -26,7 +26,7 @@ on:
         description: 'Output branch'
         required: true
         type: string
-        default: 'ai-revision-davinci'
+        default: 'ai-revision-gpt4turbo'
 
 jobs:
   ai-revise:
@@ -40,11 +40,11 @@ jobs:
         shell: bash --login {0}
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with: 
           ref: ${{ inputs.branch }} 
       - name: Install environment
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       - name: Install Manubot AI revision dependencies
@@ -62,9 +62,9 @@ jobs:
           AI_EDITOR_CUSTOM_PROMPT: ${{ inputs.custom_prompt }}
           # More variables can be specified to control the behavior of the model:
           #  https://github.com/manubot/manubot-ai-editor/blob/main/libs/manubot_ai_editor/env_vars.py
-        run: manubot ai-revision --content-directory content/
+        run: manubot ai-revision --content-directory content/ --config-directory ci/
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v6
         with:
           commit-message: 'revise using AI model\n\nUsing the OpenAI model ${{ inputs.model }}'
           title: 'AI-based revision using ${{ inputs.model }}'

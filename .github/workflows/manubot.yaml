@@ -50,7 +50,7 @@ jobs:
         shell: bash --login {0}
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           # fetch entire commit history to support get_rootstock_commit
           fetch-depth: 0
@@ -72,28 +72,25 @@ jobs:
           echo "DEFAULT_BRANCH_REF=refs/heads/$DEFAULT_BRANCH" >> $GITHUB_ENV
           echo "DEFAULT_BRANCH=$DEFAULT_BRANCH"
       - name: Cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ci/cache
           key: ci-cache-${{ github.ref }}
           restore-keys: |
             ci-cache-${{ env.DEFAULT_BRANCH_REF }}
       - name: Install Environment
-        uses: conda-incubator/setup-miniconda@v2
+        uses: conda-incubator/setup-miniconda@v3
         with:
           activate-environment: manubot
           environment-file: build/environment.yml
           auto-activate-base: false
-          miniforge-variant: Mambaforge
-          miniforge-version: 'latest'
-          use-mamba: true
       - name: Install Spellcheck
         if: env.SPELLCHECK == 'true'
         run: bash ci/install-spellcheck.sh
       - name: Build Manuscript
         run: bash build/build.sh
       - name: Upload Artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: manuscript-${{ github.run_id }}-${{ env.TRIGGERING_SHA_7 }}
           path: output
