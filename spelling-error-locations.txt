@@ -1,4 +1,3 @@
-content/01.abstract.md:4:reproducibility
 content/02.main-text.md:3:ipsum
 content/02.main-text.md:3:Lorem
 content/02.main-text.md:5:adipiscing
